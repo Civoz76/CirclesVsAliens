@@ -52,7 +52,7 @@ Master resonance, chain reactions, and survive as long as possible.
 ## 🕹️ Play the Game
 
 Download the Windows build from itch.io:  
-👉 *[insert your itch.io link here]*
+👉 https://civoz.itch.io/circles-vs-aliens
 
 Extract the `.zip` and run `CirclesVsAliens.exe`.
 
