@@ -79,3 +79,20 @@ Created for **GitHub Game Off 2025**.
 
 This project is released under the **MIT License** (see LICENSE file).  
 All visual and audio assets are original or jam-safe licensed.
+
+---
+
+## 🎧 Asset Credits
+
+**Images / Backgrounds**  
+Generated with **Gemini** and lightly edited by me (Giovanni Civati).
+
+**Music**  
+Generated with **Stable Audio** (Stability AI).
+
+**Sound Effects**  
+Taken from **Freesound.org** (CC0 where applicable).
+
+**Code**  
+Written by Giovanni Civati with AI assistance (ChatGPT).
+
