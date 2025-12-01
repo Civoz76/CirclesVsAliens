@@ -36,6 +36,19 @@ Master resonance, chain reactions, and survive as long as possible.
 
 ---
 
+## 📸 Screenshots
+
+### Title Screen
+<img src="Screenshots/home.jpg" width="600">
+
+### Gameplay
+<img src="Screenshots/game.jpg" width="600">
+
+### Game Over
+<img src="Screenshots/gameover.jpg" width="600">
+
+---
+
 ## 🕹️ Play the Game
 
 Download the Windows build from itch.io:  
